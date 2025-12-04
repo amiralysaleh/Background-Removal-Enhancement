@@ -27,24 +27,24 @@ This repository contains a simple tool built with Node.js and the Gemini API to 
    ```
    git clone https://github.com/amiralysaleh/Background-Removal-Enhancement.git
    cd Background-Removal-Enhancement
-   ``` 📥
+   ``` 
 
 2. Install dependencies:
    ```
    npm install
-   ``` 📦
+   ``` 
 
 3. Create a `.env.local` file in the root directory and add your Gemini API key:
    ```
    GEMINI_API_KEY=your_api_key_here
-   ``` ⚙️
+   ``` 
 
 ## Usage 📖
 
 1. Start the development server:
    ```
    npm run dev
-   ``` ▶️
+   ``` 
 
 2. Open your browser and navigate to `http://localhost:3000` (or the port specified in the console). 🌐
 
