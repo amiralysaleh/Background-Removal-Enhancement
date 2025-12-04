@@ -1,0 +1,5 @@
+{
+  "name": "background remover ",
+  "description": "A powerful AI image editor powered by Gemini 2.5 Flash Image. Features background removal with transparency support, lossless quality enhancement, and flexible output dimensions.",
+  "requestFramePermissions": []
+}
